@@ -3,12 +3,19 @@
 
 ## 개요
 
+|![Alt Text](https://imgur.com/jMr7Meo.png)|![Alt Text](https://imgur.com/eoGwZmz.png)|![Alt Text](https://imgur.com/Zkft3ZZ.png)|
+|---|---|---|
+|![Alt Text](https://imgur.com/Iyq078v.png)|![Alt Text](https://imgur.com/9Mhlimh.png)|![Alt Text](https://imgur.com/15GP3cv.png)|
+|![Alt Text](https://imgur.com/5wND9wf.png)|![Alt Text](https://imgur.com/W5ocBeF.png)|![Alt Text](https://imgur.com/gSsBhMr.png)|
+
 2018년도 가천대학교 컴퓨터공학과의 졸업작품집입니다. 3, 4학년 학생들이 노력을 기울여서 1년 동안 만든 작품으로 다양한 주제와 기술들을 선보인 작품입니다. 많은 관심 부탁드립니다.
+
+## 우수 졸업작품 전시회
+
+> 60개의 졸업작품 제작팀 중에서 우수팀으로 선정된 20팀의 졸업작품입니다.
 
 1. 일시 : 2018. 11. 29. (목) 10:00 ~ 17:00
 2. 장소 : 가천대학교 IT대학 502호
-
-## 우수 졸업 작품
 
 <img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
 
