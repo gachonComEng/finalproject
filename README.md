@@ -20,7 +20,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 |![Alt Text](https://imgur.com/V0l5jWX.png)|![Alt Text](https://imgur.com/ixMALfC.png)|![Alt Text](https://imgur.com/8jkyi1H.png)|
 |![Alt Text](https://imgur.com/ogHI5zU.png)|![Alt Text](https://imgur.com/lH3sEBq.png)|![Alt Text](https://imgur.com/V0l5jWX.png)|
 
-__4. 우수작품 보기__
+### 우수 졸업작품 보기
 
 <img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
 
