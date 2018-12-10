@@ -28,7 +28,7 @@ __2. 장소 : 가천대학교 IT대학 502호__
 #### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
 #### 5. [작품 상세 보기](./2018project/T1)
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 <img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
 
