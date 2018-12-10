@@ -22,7 +22,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 ****************************
 
-### 전시작품 
+### 전시작품 보기
 
 <img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
 
