@@ -24,7 +24,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 *******************************
 
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+<img align="left" src="https://imgur.com/zDA2bmO.png" width="30%" height="30%">
 
 #### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
 #### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
@@ -34,17 +34,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
-
-#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
-#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
-#### 3. 지도 교수 : 황희정
-#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
-#### 5. [작품 상세 보기](./2018project/T1)
-
-<br/><br/><br/><br/><br/><br/><br/>
-
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+<img align="left" src="https://imgur.com/ML4fhgS.png" width="30%" height="30%">
 
 #### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
 #### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
@@ -54,7 +44,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+<img align="left" src="https://imgur.com/p1Hs1jf.png" width="30%" height="30%">
 
 #### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
 #### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
@@ -64,7 +54,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+<img align="left" src="https://imgur.com/aSasQfj.png" width="30%" height="30%">
 
 #### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
 #### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
@@ -74,7 +64,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+<img align="left" src="https://imgur.com/vXGmyuS.png" width="30%" height="30%">
 
 #### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
 #### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
@@ -84,7 +74,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+<img align="left" src="https://imgur.com/yTIgYnu.png" width="30%" height="30%">
 
 #### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
 #### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
@@ -94,7 +84,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+<img align="left" src="https://imgur.com/Z6Qo08m.png" width="30%" height="30%">
 
 #### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
 #### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
@@ -104,7 +94,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+<img align="left" src="https://imgur.com/NVC89wP.png" width="30%" height="30%">
 
 #### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
 #### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
@@ -114,7 +104,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+<img align="left" src="https://imgur.com/kfWH7Kw.png" width="30%" height="30%">
 
 #### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
 #### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
@@ -124,7 +114,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+<img align="left" src="https://imgur.com/fSHY53S.png" width="30%" height="30%">
 
 #### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
 #### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
@@ -134,7 +124,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+<img align="left" src="https://imgur.com/GkUUJxI.png" width="30%" height="30%">
 
 #### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
 #### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
@@ -144,7 +134,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+<img align="left" src="https://imgur.com/WEFUntT.png" width="30%" height="30%">
 
 #### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
 #### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
@@ -154,7 +144,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+<img align="left" src="https://imgur.com/QF1Xgmq.png" width="30%" height="30%">
 
 #### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
 #### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
@@ -164,7 +154,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+<img align="left" src="https://imgur.com/MR6di7G.png" width="30%" height="30%">
 
 #### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
 #### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
@@ -174,7 +164,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+<img align="left" src="https://imgur.com/a8WS7pG.png" width="30%" height="30%">
 
 #### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
 #### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
@@ -184,7 +174,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+<img align="left" src="https://imgur.com/Zz7TWfW.png" width="30%" height="30%">
 
 #### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
 #### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
@@ -194,7 +184,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+<img align="left" src="https://imgur.com/DAoGbxB.png" width="30%" height="30%">
 
 #### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
 #### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
@@ -204,7 +194,7 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+<img align="left" src="https://imgur.com/LPBTCHM.png" width="30%" height="30%">
 
 #### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
 #### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
@@ -214,7 +204,17 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+<img align="left" src="https://imgur.com/aXCJcML.png" width="30%" height="30%">
+
+#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
+#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
+#### 3. 지도 교수 : 황희정
+#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
+#### 5. [작품 상세 보기](./2018project/T1)
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img align="left" src="https://imgur.com/uuu7Wwz.png" width="30%" height="30%">
 
 #### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
 #### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
