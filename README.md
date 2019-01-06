@@ -44,4 +44,184 @@ __3. 전시작품 : 20개의 졸업작품 우수작__
 
 <br/><br/><br/><br/><br/><br/><br/>
 
+<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+
+#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
+#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
+#### 3. 지도 교수 : 황희정
+#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
+#### 5. [작품 상세 보기](./2018project/T1)
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+
+#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
+#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
+#### 3. 지도 교수 : 황희정
+#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
+#### 5. [작품 상세 보기](./2018project/T1)
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+
+#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
+#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
+#### 3. 지도 교수 : 황희정
+#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
+#### 5. [작품 상세 보기](./2018project/T1)
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+
+#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
+#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
+#### 3. 지도 교수 : 황희정
+#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
+#### 5. [작품 상세 보기](./2018project/T1)
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+
+#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
+#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
+#### 3. 지도 교수 : 황희정
+#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
+#### 5. [작품 상세 보기](./2018project/T1)
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+
+#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
+#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
+#### 3. 지도 교수 : 황희정
+#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
+#### 5. [작품 상세 보기](./2018project/T1)
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+
+#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
+#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
+#### 3. 지도 교수 : 황희정
+#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
+#### 5. [작품 상세 보기](./2018project/T1)
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+
+#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
+#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
+#### 3. 지도 교수 : 황희정
+#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
+#### 5. [작품 상세 보기](./2018project/T1)
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+
+#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
+#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
+#### 3. 지도 교수 : 황희정
+#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
+#### 5. [작품 상세 보기](./2018project/T1)
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+
+#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
+#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
+#### 3. 지도 교수 : 황희정
+#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
+#### 5. [작품 상세 보기](./2018project/T1)
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+
+#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
+#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
+#### 3. 지도 교수 : 황희정
+#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
+#### 5. [작품 상세 보기](./2018project/T1)
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+
+#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
+#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
+#### 3. 지도 교수 : 황희정
+#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
+#### 5. [작품 상세 보기](./2018project/T1)
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+
+#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
+#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
+#### 3. 지도 교수 : 황희정
+#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
+#### 5. [작품 상세 보기](./2018project/T1)
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+
+#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
+#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
+#### 3. 지도 교수 : 황희정
+#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
+#### 5. [작품 상세 보기](./2018project/T1)
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+
+#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
+#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
+#### 3. 지도 교수 : 황희정
+#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
+#### 5. [작품 상세 보기](./2018project/T1)
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+
+#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
+#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
+#### 3. 지도 교수 : 황희정
+#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
+#### 5. [작품 상세 보기](./2018project/T1)
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+
+#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
+#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
+#### 3. 지도 교수 : 황희정
+#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
+#### 5. [작품 상세 보기](./2018project/T1)
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img align="left" src="https://imgur.com/qucEjzS.png" width="30%" height="30%">
+
+#### 1. 팀명 : T1 (전동철, 오정훈, 안정욱)
+#### 2. 프로젝트명 : IoT를 이용한 건강 관리 시스템
+#### 3. 지도 교수 : 황희정
+#### 4. 설명 : IoT 센서를 이용한 사람들의 개인 건강을 측정하고 관리할 수 있는 시스템
+#### 5. [작품 상세 보기](./2018project/T1)
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
 ********************************
